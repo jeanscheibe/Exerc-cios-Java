@@ -1,6 +1,8 @@
 /*
  * Lista de exercício Java - Programa Start by Capgemini
  * @author Jean Carlo Scheibe
+ *
+ * Exercício 1
  * Faça um algoritmo que receba dois números e exiba o resultado da sua soma 
  */
 
